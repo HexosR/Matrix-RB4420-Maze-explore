@@ -1,0 +1,106 @@
+Measured values are equvalent to the time that light that came out form the sensor went back to the sensor 
+Black surfaces are absorbing light and white ones reppeling it 
+The threshold for detecting the obstacle for this sensors sholud be around 600/700.
+Some of the black surfaces may not be detected.
+LR number 0 (left front)
+finger:
+~(cm) 
+without -- 4
+100 -- 20
+90  -- 28
+80  --34
+70  --46
+60  --71
+50  --96
+40  --161
+30  --272
+20  --536
+10  --1312
+0   --2363
+
+Readings differs from angle of my hand
+
+black:
+without -- 4
+100 -- 8
+90  -- 9
+80  --11
+70  --15
+60  --21
+50  --33
+40  --61
+30  --87
+20  --154
+10  --396
+5   --770
+0   --18
+
+white:
+without -- 4
+100 -- 34
+90  -- 44
+80  --62
+70  --87
+60  --126
+50  --192
+40  --283
+30  --485
+20  --901
+10  --2130
+0   --16
+
+
+
+
+
+LR number 2 (front)
+finger:       
+~(cm) 
+without -- 2   
+100 -- 30     
+90  -- 34
+80  --48
+70  --59
+60  --80
+50  --127
+40  --188
+30  --346
+20  --629
+10  --1398
+0   --2426
+
+black board:
+
+without -- 2   
+100 -- 10   
+90  -- 11
+80  -- 17
+70  -- 23
+60  --33
+50  --47
+40  --70
+30  --117
+20  --247
+10  --717
+0   --115
+last reading very low because of sensors no space to get the sygnal
+very low readings
+
+white board:
+
+
+without -- 2   
+100 --   54
+90  -- 66
+80  -- 87
+70  -- 126
+60  -- 184
+50  -- 269
+40  -- 442
+30  -- 724
+20  -- 1353
+10  -- 2422
+0   -- 64
+
+for black things if threshold will be 600 - 1,5cm 
+for white things - 3,0 cm
